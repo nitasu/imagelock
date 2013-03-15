@@ -46,4 +46,4 @@ sense to the author or owner of the image.
 
 
 
-![imagelock logo](http://54.246.80.177/imagelock.jpg)
+![imagelock qr](qr.png)
